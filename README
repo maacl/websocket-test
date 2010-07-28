@@ -1,15 +1,7 @@
 # websocket-test
 
-FIXME: write description
+Small chat app using Clojure Jetty 7 and WebSockets.
 
 ## Usage
 
-FIXME: write
-
-## Installation
-
-FIXME: write
-
-## License
-
-FIXME: write
+Run using swank-clojure-project in Emacs. The last two forms in web_scocket.clj starts the two servers - one to websocket chat server and one for serving the index.html.
